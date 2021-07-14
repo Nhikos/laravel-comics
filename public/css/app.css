@@ -46,12 +46,40 @@ main .card {
   width: 180px;
   margin: 10px;
   overflow: hidden;
-  border: 1px solid red;
 }
 
 main .film_name {
   font-size: 14px;
   margin-top: 15px;
+}
+
+footer {
+  height: 500px;
+  width: 100%;
+  background-image: url(/images/footer-bg.jpg?dfd68d2946f211e1b678af05fd2f830b);
+}
+
+footer .bar-background {
+  background-color: blue;
+}
+
+footer .bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  height: 120px;
+  width: 90%;
+}
+
+footer .bar ul {
+  display: flex;
+}
+
+footer .bar li {
+  list-style: none;
+  margin: 0 20px;
 }
 
 * {
