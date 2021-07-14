@@ -1,5 +1,5 @@
 <footer>
-    <div>
-        <h2>ciao</h2>
+    <div class="container">
+        <img src="" alt="">
     </div>
 </footer>
