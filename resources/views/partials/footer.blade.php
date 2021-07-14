@@ -1,5 +1,5 @@
 <footer>
     <div>
-        <h2>ciao cacca</h2>
+        <h2>ciao</h2>
     </div>
 </footer>
